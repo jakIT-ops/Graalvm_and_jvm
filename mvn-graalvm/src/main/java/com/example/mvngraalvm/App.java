@@ -1,0 +1,7 @@
+package com.example.mvngraalvm;
+
+public class App {
+    public static void main(String[] args){
+        System.out.println("Hello maven!");
+    }
+}
